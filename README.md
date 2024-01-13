@@ -4,7 +4,7 @@ A Machine learning and Software developer from Hyderabad, India.
 I'm a Student and Developer !!
 🌱 I’m currently learning everything 🤣
 🥅 2023 Goals: Contribute more to Open Source projects
-⚡ Fact: I like to spend read books.
+⚡ About: I like spend time to read books.
 
 Languages and Tools:
 Jupyter Notebook
