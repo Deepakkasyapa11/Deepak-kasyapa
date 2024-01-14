@@ -6,7 +6,7 @@ I'm a Student and Developer !!
 🥅 2023 Goals: Contribute more to Open Source projects
 ⚡ About: I like to spend time on reading books.
 
-My primary research interest lies in Geneartive AI Machine Learning, Information Security, and Computer Vision. Currently, I'm researching on Natural Langugag Processing.
+My primary research interest lies in Generative AI, Machine Learning, Information Security, and Computer Vision. Currently, I'm researching on Natural Langugag Processing.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Interests
