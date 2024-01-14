@@ -4,7 +4,10 @@ A Machine learning and Software developer from Hyderabad, India.
 I'm a Student and Developer !!
 🌱 I’m currently learning everything 🤣
 🥅 2023 Goals: Contribute more to Open Source projects
-⚡ About: I like spend time to read books.
+⚡ About: I like to spend time on reading books.
+
+My primary research interest lies in Information Security, Machine Learning and Computer Vision. Currently, I'm researching on Adversarial Machine Learning.
+  
 
 Languages and Tools:
 Jupyter Notebook
