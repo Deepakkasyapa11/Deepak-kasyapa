@@ -12,7 +12,7 @@ My primary research interest lies in Information Security, Machine Learning and 
 Interests
 Primary research interest: Cybersecurity
 Industrial Interest: Infosec, Machine Learning and Computer Vision and Web Development
-Currently Working on Adversarial Attacks and Defences in Autonomous Driving Models
+Currently Working on Generative AI and Large Language models using Langchain Frame work.
 Currently exploring: Blockchain and Crypto space.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Languages and Tools:
