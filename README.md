@@ -6,14 +6,14 @@ I'm a Student and Developer !!
 🥅 2023 Goals: Contribute more to Open Source projects
 ⚡ About: I like to spend time on reading books.
 
-My primary research interest lies in Information Security, Machine Learning and Computer Vision. Currently, I'm researching on Adversarial Machine Learning.
+My primary research interest lies in Geneartive AI Machine Learning, Information Security, and Computer Vision. Currently, I'm researching on Natural Langugag Processing.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Interests
+Currently Working on Generative AI and Large Language models using Langchain Frame work.
 Primary research interest: Cybersecurity
 Industrial Interest: Infosec, Machine Learning and Computer Vision and Web Development
-Currently Working on Generative AI and Large Language models using Langchain Frame work.
-Currently exploring: Blockchain and Crypto space.
+At present exploring: Blockchain and Crypto space.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 Languages and Tools:
 Jupyter Notebook
